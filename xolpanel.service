@@ -1,5 +1,5 @@
 [Unit]
-Description=Simple XolPanel - @XolPanel
+Description=Simple XolPanel - @darkanonc
 After=network.target
 
 [Service]
